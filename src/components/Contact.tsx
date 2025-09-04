@@ -6,12 +6,12 @@ export function Contact() {
       <div className="max-w-4xl mx-auto text-center">
         <div className="space-y-8">
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-gray-100">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
           
           <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
             Interested in collaborating or discussing data analysis opportunities? 
-            I'd love to hear from you.
+            I&apos;d love to hear from you.
           </p>
           
           <div className="inline-flex items-center gap-3 p-4 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900 hover:shadow-lg transition-all duration-300 group">
