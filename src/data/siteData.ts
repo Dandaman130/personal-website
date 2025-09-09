@@ -17,7 +17,7 @@ export const projects: Project[] = [
     technologies: ["Python", "MySQL", "Data Analysis", "Economic Modeling"],
     githubUrl: "https://github.com/dandun914/skyrim-gdp-analysis",
     isHighlight: true,
-    year: "2024"
+    year: "2025"
   },
   {
     id: "blackjack-aws",
@@ -40,7 +40,7 @@ export const projects: Project[] = [
     title: "KhanQuest Board Game",
     description: "Designed a strategy board game with army control, territorial battles, faction abilities and resource management. Conducted extensive playtesting to refine balance and improve gameplay mechanics. Created comprehensive game rules and balanced faction systems.",
     technologies: ["Game Design", "Strategy Development", "Playtesting", "Balance Design"],
-    year: "2023"
+    year: "2018-2025"
   }
 ];
 
